@@ -5,6 +5,7 @@
 *git clone https://github.com/emuahu99/TRGN510_assignment4
 
 *how get Homo_sapiens.GRCh37.75.gtf：wget http://ftp.ensembl.org/pub/release-75/gtf/homo_sapiens/Homo_sapiens.GRCh37.75.gtf.gz
+gunzip Homo_sapiens.GRCh37.75.gtf.gz
 
 *expres.anal.csv：from：https://github.com/davcraig75/unit/expres.anal.csv
 
