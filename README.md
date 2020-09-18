@@ -1,10 +1,11 @@
-# TRGN510_assignment4
 #About the app
+*This is a simple program that is built on the basis of homo_sapiens genes. The first part it to transform the Homo_sapiens.GRCh37.75.gtf file into a dictionary so that Ensembl genes correspond to each HUGO gene names. The second part is to replace the Ensembl gene names in a second dataset,expres.anal.csv, to HUGO gene names.
 
-wordcloud summarizing a (2+) series of webpages once per day
-I want to record new updates in reanslational bioinformatics.
-#Installation & Usage *git clone https://github.com/emuahu99/trgn_wordcloud
+*git clone https://github.com/emuahu99/TRGN510_assignment4
 
 #Dependencies
 
-#Contact *email: jietingh@usc.edu
+#Contact
+*email: jietingh@usc.edu
+
+
